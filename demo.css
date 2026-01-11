@@ -1,5 +1,6 @@
-button
+.one
 {
     background-color: green;
     border-style: inset;
+    border-color: green;
 }
