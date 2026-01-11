@@ -1,6 +1,9 @@
 .one
 {
+    margin-bottom: 30px;
     background-color: green;
     border-style: inset;
     border-color: green;
+    color: white;
+    font-size: 30px;
 }
